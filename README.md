@@ -16,3 +16,5 @@
     * publish the branch on the remote
 
 4. Create an environment (you can use any name) and export it as environment.yaml file. Make sure that exported environment can be used on different operating systems
+
+5. Add assignment 07 to the repo.
